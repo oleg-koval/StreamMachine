@@ -65,7 +65,7 @@
     "winston": "~0.7.2",
     "xmldom": "~0.1.19",
     "xpath": "~0.0.9",
-    "yargs": "~3.18"
+    "yargs": "~16.0.0"
   },
   "devDependencies": {
     "coffee-script": "~1.7.1",
